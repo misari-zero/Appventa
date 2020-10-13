@@ -1,0 +1,5 @@
+Conseguir ssh para GitLab
+ssh-keygen -t rsa -b 4096
+
+--Clave ssh
+cat ~/.ssh/id_rsa.pub
